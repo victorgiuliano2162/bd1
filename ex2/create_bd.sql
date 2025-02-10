@@ -1,0 +1,1 @@
+CREATE SCHEMA exercicios_bd2;
