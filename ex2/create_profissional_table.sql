@@ -3,5 +3,5 @@ CREATE TABLE exercicios_bd2.profissional (
     nome VARCHAR(128),
     endereco VARCHAR(256),
     data_nascimento DATE,
-    profissao VARCHAR(20),
+    profissao VARCHAR(128)
 );
