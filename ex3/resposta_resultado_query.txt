@@ -1,0 +1,9 @@
+3. b) Nenhum resultado
+4. a) 1
+5. c) Apêlar Móveis
+6. b) Apenas os marceneiros cadastrados
+7. a) Lista contratos por empresa
+8. a) Lista com todos os nomes iniciados com a letra 'J'
+9. c) Apenas os CPFs dos profissionais nascidos após 1990
+10. a) Número de contratos encerrados antes de 2015
+11. a) Lista com todos os nomes de profissionais cujo endereço contém 'Rua'
