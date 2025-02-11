@@ -8,4 +8,4 @@ SET
     profissao = CASE 
         WHEN profissao = 'Batedor de Massa' THEN 'Pedreiro'
         ELSE profissao 
-    END;
+END;
